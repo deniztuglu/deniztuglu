@@ -15,6 +15,6 @@ I build game audio from the first sound to the shipped build: sound design, midd
 
 | Project | What it shows |
 | --- | --- |
-| [**Interactive Engine Audio Sandbox**](https://github.com/deniztuglu/Tech_Demo_Website) | Unity + FMOD. A C# controller turns throttle into RPM and Load parameters that drive layered engine sound. [Play it in the browser](https://deniztugluaudio.com/demo/). |
+| [**Interactive Engine Audio Sandbox**](https://github.com/deniztuglu/fmod-engine-audio-sandbox) | Unity + FMOD. A C# controller turns throttle into RPM and Load parameters that drive layered engine sound. [Play it in the browser](https://deniztugluaudio.com/demo/). |
 | [**Audio Asset Validator**](https://github.com/deniztuglu/audio_asset_validator) | Python. A preflight checker for audio exports (naming, sample rate, bit depth, channels, duration) with CSV reports and tests. |
 | [**SimpleEQ**](https://github.com/deniztuglu/SimpleEQ) | C++ / JUCE. A work-in-progress EQ plugin with low-cut, peak and high-cut filters and selectable slopes. |
